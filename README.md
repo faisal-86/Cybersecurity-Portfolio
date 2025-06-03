@@ -3,8 +3,7 @@ A collection of hands-on cybersecurity labs, write-ups, and tools I’ve worked 
 
 ## 🔍 Featured Projects
 
-### 📁 [Security Audit – Botium Toys](./Labs/Security_Audit_Google_Cert
-/security_audit_report.md)
+### 📁 [Security Audit – Botium Toys](Labs/Security_Audit_Google_Cert/security_audit_report.md)
 
 - Simulated internal audit using the NIST Cybersecurity Framework
 - Assessed organizational risks and compliance gaps
